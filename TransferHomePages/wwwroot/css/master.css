@@ -1,0 +1,11 @@
+﻿/*Framework : Bootstrap 4.3*/
+@import url('../lib/bootstrap/css/bootstrap.min.css');
+
+/*Icons: Font-awesome 5.10.2*/
+@import url('../lib/fontawesome/css/all.min.css');
+
+/*Brand Fonts*/
+@import url('fonts.css');
+
+/*Custom Style*/
+@import url('style.css');
